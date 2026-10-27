@@ -63,7 +63,7 @@ Both are linked on `membership.html`. No form questions, response records or sha
 
 ## Review the prototype
 
-Open https://mateusmazza.github.io/gefi-website/ in a browser. No download, account or setup is needed. The repository and preview are public.
+Open https://stanford-developers.github.io/gefi-website/ in a browser. No download, account or setup is needed. The repository and preview are public.
 
 Download the repository ZIP from GitHub (**Code → Download ZIP**), extract it, and open `index.html` in your browser. Navigation, member photos and the community map work locally. Google Fonts and the external Google Form links need internet access.
 
@@ -72,3 +72,7 @@ For a local server, run `python3 -m http.server 8767` from this folder and open 
 The owner approved this public review preview on October 25, 2026. All prototype HTML pages request `noindex, nofollow` from search engines. This is a search-indexing request, not access control: anyone can view or share the URL. Before the final launch, remove these robots meta tags if the production site should be indexed. No application responses, contact exports or authentication credentials belong in this repository.
 
 For team feedback, use repository issues to record the page, requested change and its importance for launch. Suggested review priorities are the homepage mission; names and affiliations; resource accuracy and old-site coverage; application links; mobile navigation; and the community map. Do not submit real membership applications solely to leave website feedback.
+
+## Stanford ownership
+
+Transferred to https://github.com/stanford-developers/gefi-website on October 26, 2026 at the owner’s request. The public preview is https://stanford-developers.github.io/gefi-website/ . The repository remains public and requests no search indexing. Stanford organization administrators control repository settings; the coordinator retains editing access. The gefi.stanford.edu domain and current production website have not been changed.
